@@ -14,8 +14,15 @@ public class DriverManager {
 	{
 		System.out.println("Driver executed!");
 	}
-	private DriverManager () {
-		
+
+	@Test
+	public void testMethod ()
+	{
+		System.out.println("done");
 	}
+	private DriverManager() {
+
+	}
+
 
 }
