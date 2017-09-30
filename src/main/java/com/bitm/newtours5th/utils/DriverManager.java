@@ -1,4 +1,5 @@
 package com.bitm.newtours5th.utils;
+import org.testng.annotations.Test;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
